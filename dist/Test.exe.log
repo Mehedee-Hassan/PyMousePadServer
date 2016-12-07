@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "Test.py", line 235, in <module>
+  File "Test.py", line 25, in runCommand
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Traceback (most recent call last):
+  File "Test.py", line 235, in <module>
+  File "Test.py", line 25, in runCommand
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+Traceback (most recent call last):
+  File "Test.py", line 235, in <module>
+  File "Test.py", line 25, in runCommand
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
